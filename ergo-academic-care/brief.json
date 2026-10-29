@@ -1,0 +1,25 @@
+{
+ "thread": {
+  "contact": "17845622681812",
+  "contact_jid": "17845622681812@lid",
+  "business": "ERGO Academic Care",
+  "business_type": "Coaching center",
+  "area": "Mirpur",
+  "phone": "8801710227756",
+  "stage": "demo_ready",
+  "brief": "{}",
+  "last_in": "2026-10-28T18:32:09",
+  "last_out": "2026-10-29T05:05:14",
+  "next_action_at": null,
+  "demo_url": "https://ergo-academic-care.netlify.app",
+  "demo_built_at": "2026-10-29T11:49:13",
+  "offer_sent_at": null,
+  "needs_human": 0,
+  "notes": null,
+  "reviews": 27,
+  "rating": 4.6
+ },
+ "brief": {},
+ "register": "academy",
+ "built_at": "2026-10-29T12:01:49"
+}
