@@ -1,0 +1,37 @@
+{
+ "thread": {
+  "contact": "44796727013546",
+  "contact_jid": "44796727013546@lid",
+  "business": "The Charmant Boutique",
+  "business_type": "Women's clothing store",
+  "area": "Gulshan",
+  "phone": "8801765585897",
+  "stage": "demo_ready",
+  "brief": "{\"colors\": [], \"sections\": [\"gallery\", \"products\"], \"assets\": [\"photos\"], \"notes\": [], \"language\": null, \"intent_go\": true}",
+  "last_in": "2026-10-29T04:57:01",
+  "last_out": "2026-10-29T11:40:29",
+  "next_action_at": null,
+  "demo_url": "https://the-charmant-boutique.netlify.app",
+  "demo_built_at": "2026-10-29T11:49:24",
+  "offer_sent_at": null,
+  "needs_human": 1,
+  "notes": null,
+  "reviews": 24,
+  "rating": 4.7
+ },
+ "brief": {
+  "colors": [],
+  "sections": [
+   "gallery",
+   "products"
+  ],
+  "assets": [
+   "photos"
+  ],
+  "notes": [],
+  "language": null,
+  "intent_go": true
+ },
+ "register": "boutique",
+ "built_at": "2026-10-29T12:01:49"
+}
