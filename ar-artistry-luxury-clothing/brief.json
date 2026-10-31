@@ -1,0 +1,26 @@
+{
+ "thread": {
+  "contact": "8801799888800",
+  "contact_jid": "8801799888800@s.whatsapp.net",
+  "business": "AR Artistry - Luxury Clothing Brand, Gulshan",
+  "business_type": "Clothing store",
+  "area": "Gulshan",
+  "phone": "8801799888800",
+  "stage": "discovery",
+  "brief": "{}",
+  "last_in": "2026-10-31T05:37:28",
+  "last_out": "2026-10-31T04:12:35",
+  "next_action_at": null,
+  "demo_url": null,
+  "demo_built_at": "2026-10-31T13:32:13",
+  "offer_sent_at": null,
+  "needs_human": 0,
+  "notes": null,
+  "reviews": 10,
+  "rating": 5.0,
+  "demo_sent_at": null
+ },
+ "brief": {},
+ "register": "boutique",
+ "built_at": "2026-10-31T13:34:07"
+}
